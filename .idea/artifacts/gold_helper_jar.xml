@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gold-helper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gold_helper_jar</output-path>
+    <root id="archive" name="gold-helper.jar">
+      <element id="module-output" name="gold-helper" />
+    </root>
+  </artifact>
+</component>
